@@ -1,0 +1,194 @@
+{
+    "categories" : [
+    {
+        "categoryId" : 1,
+        "name" : "Steak",
+        "color" : "0xFFFEC8BD",
+        "data" : [
+            {
+                "name" : "Turkish Steak",
+                "price" : 120,
+                "color" :"0xFFFEC8BD",
+                "fav" : false
+            },{
+                "name" : "Italian Steak",
+                "price" : 100,
+                "color" :"0xFFFEC8BD",
+                "fav" : false
+            },{
+                "name" : "Brazilian Steak",
+                "price" : 90,
+                "color" :"0xFFFEC8BD",
+                "fav" : false
+            }
+        ]
+    },
+    {
+        "categoryId" : 2,
+        "name" : "Vegetables",
+        "color" : "0xFFFAD96D",
+        "data" : [
+            {
+                "name" : "Tomato",
+                "price" : 12,
+                "color" :"0xFFFAD96D",
+                "fav" : false
+            },{
+                "name" : "watercress",
+                "price" : 5,
+                "color" :"0xFFFAD96D",
+                "fav" : false
+            },{
+                "name" : "parsley",
+                "price" : 3,
+                "color" :"0xFFFAD96D",
+                "fav" : false
+            },{
+                "name" : "Cucumber",
+                "price" : 10,
+                "color" :"0xFFFAD96D",
+                "fav" : false
+            }
+        ]
+    },
+    {
+        "categoryId" : 3,
+        "name" : "Beverages",
+        "color" : "0xFFCCB8FFD",
+        "data" : [
+            {
+                "name" : "Cola",
+                "price" : 10,
+                "color" :"0xFFCCB8FFD",
+                "fav" : false
+            },{
+                "name" : "Pepsi",
+                "price" : 10,
+                "color" :"0xFFCCB8FFD",
+                "fav" : false
+            },{
+                "name" : "Shuips",
+                "price" : 8,
+                "color" :"0xFFCCB8FFD",
+                "fav" : false
+            },{
+                "name" : "7Up",
+                "price" : 7,
+                "color" :"0xFFCCB8FFD",
+                "fav" : false
+            }
+        ]
+    },
+    {
+        "name" : "Fish",
+        "color" : "0xFFB0EAFD",
+        "data" : [
+            {
+                "name" : "Salamon",
+                "price" : 50,
+                "color" :"0xFFB0EAFD",
+                "fav" : false
+            },{
+                "name" : "Tonah",
+                "price" : 70,
+                "color" :"0xFFB0EAFD",
+                "fav" : false
+            },{
+                "name" : "Macaril",
+                "price" : 37,
+                "color" :"0xFFB0EAFD",
+                "fav" : false
+            },{
+                "name" : "Bory",
+                "price" : 50,
+                "color" :"0xFFB0EAFD",
+                "fav" : false
+            }
+        ]
+    },
+    {
+        "categoryId" : 4,
+        "name" : "Juice",
+        "color" : "0xFFFF9DC2",
+        "data" : [
+            {
+                "name" : "Red Juice",
+                "price" : 20,
+                "color" :"0xFFFF9DC2",
+                "fav" : false
+            },{
+                "name" : "Fruit Juice",
+                "price" : 25,
+                "color" :"0xFFFF9DC2",
+                "fav" : false
+            },{
+                "name" : "Green Juice",
+                "price" : 18,
+                "color" :"0xFFFF9DC2",
+                "fav" : false
+            },{
+                "name" : "Blue Berry Juice",
+                "price" : 27,
+                "color" :"0xFFFF9DC2",
+                "fav" : false
+            }
+        ]
+    },
+    {
+        "categoryId" : 5,
+        "name" : "Ice Cream",
+        "color" : "0xFFA7FFEB",
+        "data" : [
+            {
+                "name" : "Milk Ice Cream",
+                "price" : 20,
+                "color" :"0xFFA7FFEB",
+                "fav" : false
+            },{
+                "name" : "Fruit Ice Cream",
+                "price" : 25,
+                "color" :"0xFFA7FFEB",
+                "fav" : false
+            },{
+                "name" : "chocolate Ice Cream",
+                "price" : 18,
+                "color" :"0xFFA7FFEB",
+                "fav" : false
+            },{
+                "name" : "Mango Ice Cream",
+                "price" : 27,
+                "color" :"0xFFA7FFEB",
+                "fav" : false
+            }
+        ]
+    },
+    {
+        "categoryId" : 6,
+        "name" : "Coffee",
+        "color" : "0xFFFFB74D",
+        "data" : [
+            {
+                "name" : "Turkish Coffee",
+                "price" : 20,
+                "color" :"0xFFFFB74D",
+                "fav" : false
+            },{
+                "name" : "French Coffee",
+                "price" : 25,
+                "color" :"0xFFFFB74D",
+                "fav" : false
+            },{
+                "name" : "Moka",
+                "price" : 18,
+                "color" :"0xFFFFB74D",
+                "fav" : false
+            },{
+                "name" : "Nescafe",
+                "price" : 27,
+                "color" :"0xFFFFB74D",
+                "fav" : false
+            }
+        ]
+    }
+    ]
+}
